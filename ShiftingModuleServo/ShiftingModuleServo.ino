@@ -5,9 +5,9 @@
 // Definitions
 const int spr = 2038; // Steps per revolution (factory)
 // Motor outputs
-const int in1 = 2, in2 = 3, in3 = 4, in4 = 5;
+const int pwm_pin = 3;
 // Button inputs
-const int upb = 6, downb = 7, upt = 8, downt = 9;
+const int upb = 4, downb = 5, upt = 6, downt = 7;
 //
 const int vtx = 6;
 
